@@ -9,7 +9,7 @@ Have these ready:
 2. A payment method such as Alipay, PayPal, or another option currently shown by the official checkout.
 3. The devices you plan to use. Check whether the plan limits phones, computers, or the total number of devices.
 
-> Some official links on this site are affiliate links. If you purchase through one of them, this site may earn a commission at no extra cost to you.
+[Some official links on this site are affiliate links.](https://justmysocks.net/members/aff.php?aff=25290)
 
 Learn how to register and purchase Just My Socks in 2026 with this step-by-step guide. Compare plans, apply the JMS9272283 promo code, complete payment, and configure Shadowsocks or V2Ray clients on Windows, Mac, Android, and iPhone.
 
@@ -100,6 +100,9 @@ This guide uses V2Ray as the example client. macOS users can use V2RayU. After i
 ![V2Ray subscription or node import](images/step-08-v2ray-import.png)
 
 Button names and screens vary by client version. Use the current client interface, and judge protocol suitability by your actual connection results.
+
+[Some official links on this site are affiliate links.](https://justmysocks.net/members/aff.php?aff=25290)
+
 
 ## Common questions
 
